@@ -9,3 +9,6 @@
 ## Reach me here:
 - on my twitter account [@Diego_Koz](https://twitter.com/Diego_Koz)
 - If you are curious, you can also visit my [personal website](https://sites.google.com/view/diego-kozlowski/home)
+
+
+![](life_in_months.png)
