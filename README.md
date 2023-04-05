@@ -2,8 +2,9 @@
 
 ## About me
 - I'm a Data Scientist and Economist from Buenos Aires, Argentina 🇦🇷.
-- I'm Currently doing my PhD on _Science of Science_ at the [DTU DRIVEN](https://driven.uni.lu) at the University of Luxembourg 🇱🇺
-- I'm interested in research topics within the domain of {Social Data Sciences// Computational Social Sciences}.
+- I've recently finished a PhD on _Science of Science_ at the [DTU DRIVEN](https://driven.uni.lu) at the University of Luxembourg 🇱🇺
+- I'm interested in research topics within the domain of {Social Data Sciences// Computational Social Sciences}, especially with social impact and on the studie of inequalities
+- I am currently a post-doc researcher at the Université de Montreal 🇨🇦
 
 
 ## Reach me here:
