@@ -11,5 +11,4 @@
 - on my twitter account [@Diego_Koz](https://twitter.com/Diego_Koz)
 - If you are curious, you can also visit my [personal website](https://sites.google.com/view/diego-kozlowski/home)
 
-
-![adapted from [sharlagelfand/mylifeinmonths](https://github.com/sharlagelfand/mylifeinmonths)](https://github.com/DiegoKoz/DiegoKoz/blob/master/life_in_months.png)
+![adapted from [sharlagelfand/mylifeinmonths](https://github.com/sharlagelfand/mylifeinmonths)](https://github.com/DiegoKoz/DiegoKoz/assets/28060531/d04f2233-0a6e-405f-b893-5b3dadc9cb35)
